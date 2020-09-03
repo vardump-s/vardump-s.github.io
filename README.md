@@ -1,2 +1,2 @@
-# Mineral
-Simple site web.
+# varDump
+Simple site web for varDump shop.
