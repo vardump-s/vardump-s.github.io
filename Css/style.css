@@ -1,7 +1,7 @@
 body {
     background-image: url("https://raw.githubusercontent.com/vardump-s/vardump-s.github.io/master/Assets/Background/background.gif");
     background-size:cover;
-    color: #ffffff;
+    color: #000000;
 }
 
 #title {
@@ -21,7 +21,7 @@ body {
 }
 #nav {
     position: absolute;
-    top: 30%; left: 50%;
+    top: 35%; left: 50%;
     transform: translate(-50%, -50%);
 	padding: 0; margin: 0;
     text-align: center;
