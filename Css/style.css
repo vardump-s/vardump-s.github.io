@@ -15,7 +15,7 @@ body {
     text-transform: uppercase;
     font-family: 'Rosemary', sans-serif;
     font-size: 60px;
-    color: #ffffff;
+    color: #000000;
     padding-bottom: 3px;
     text-decoration: none;
 }
@@ -39,7 +39,7 @@ body {
     text-transform: uppercase;
     font-family: 'Rosemary', sans-serif;
     font-size: 30px;
-    color: #ffffff;
+    color: #000000;
     padding-bottom: 3px;
     text-decoration: none;
 }
@@ -50,6 +50,6 @@ body {
 
 @keyframes animationRotate {
     100% {
-        transform: rotate(720deg);
+        transform: rotate(1080deg);
    }
 }
